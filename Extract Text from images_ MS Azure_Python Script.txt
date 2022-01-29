@@ -10,6 +10,8 @@ This is a script file to perform the following operations:
     pip install --upgrade azure-cognitiveservices-vision-computervision
     pip install pillow
     pip install azure-storage-blob
+    pip install pandas
+    pip install openpyxl
 """
 
 """ IMPORT LIBRARIES """
